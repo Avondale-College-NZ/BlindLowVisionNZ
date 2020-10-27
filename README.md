@@ -14,4 +14,4 @@ The purpose for this webapp is to create a user-friendly interface so it can be 
 ## Testing and Installation
 1. Download Zip file
 2. Open file in Visual Studio (2019 recommended)
-3. Run the Web Applcation
+3. Run the Web Application
