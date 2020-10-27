@@ -3,13 +3,13 @@ This Web Application has been produced to fulfill NCEA Innovation (Digital Techn
 ## Description
 The purpose for this webapp is to create a user-friendly interface so it can be interacted with a web browser. It is split into 2 parts; website and database. This allows a user to input data and gain an output relating to the action. This webapp consists of a frontend and backend to allow the full quality user experience. Codes have been heavily reviewed to lower risks of errors. But please do not hesitate to give feedback and improvements that I can undertake in the future:)
 ## Web Development Languages Used
-*C#
+• C#
 
-*HTML
+• HTML
 
-*CSS
+• CSS
 
-*Javascript
+• Javascript
 
 ## Testing and Installation
 1. Download Zip file
