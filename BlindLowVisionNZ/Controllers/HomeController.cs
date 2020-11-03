@@ -49,6 +49,11 @@ namespace BlindLowVisionNZ.Controllers
         {
             return View();
         }
+        [AllowAnonymous]
+        public IActionResult Shop()
+        {
+            return View();
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
