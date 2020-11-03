@@ -54,7 +54,10 @@ namespace BlindLowVisionNZ.Controllers
         {
             return View();
         }
-
+        public IActionResult DonationSuccessful()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
